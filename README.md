@@ -65,8 +65,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acedi-a&layout=compact&theme=radical&hide_border=true""/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Acedi-a&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acedi-a&layout=compact&theme=radical&hide_border=true""/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Acedi-a&theme=radical&hide_border=true"/>
 </p>
 
 
